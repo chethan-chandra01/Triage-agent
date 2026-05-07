@@ -15,7 +15,7 @@ Run:
     python code/main.py
 
 Requirements:
-    GEMINI_API_KEY or GOOGLE_API_KEY environment variable must be set.
+    NVIDIA Llama-3.3-70B  environment variable must be set.
 """
 
 import os
